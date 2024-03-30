@@ -7,33 +7,26 @@ O projeto e uma aplicacao Front & Back-end construida durante o 1a semestre do C
 
 O projeto consiste em criar o primeiro curriculo, mesmo daqueles com pouca bagaguem na area de T.I e comitar essas informacoes na Plataforma Github para a criacao de nosso portifolio.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+A pagina web criada se divide em alguns topicos, a landing page, onde temos o menu superior de navegacao e tambem redirecionadores para as plataformas Github e Linkedin no rodape, as abas Experiencia e Contato.
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## Layout Landing Page
+![navegacao](https://github.com/ThiagoDav/PersonalCV/assets/163654698/61c3da1e-9358-4eba-a8b9-d17acb9df742)
+![redirecionamento](https://github.com/ThiagoDav/PersonalCV/assets/163654698/7176956b-3aaf-4817-a60b-ce4abbddcd25)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Layout Experiencia
+![xp](https://github.com/ThiagoDav/PersonalCV/assets/163654698/e2168435-4b83-4e77-a706-c68f9bfe2de5)
+
+
+## Layout Contato
+![contact](https://github.com/ThiagoDav/PersonalCV/assets/163654698/ce70a6cc-8d98-4ba2-ad5e-823b79e94bea)
 
 # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML & CSS 
+
 ## Implantação em produção
-- Back end: Heroku
 - Front end web: Netlify
-- Banco de dados: Postgresql
 
 # Como executar o projeto
 
