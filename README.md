@@ -1,99 +1,75 @@
-# My Personal CV
+# Primeiro curriculo criado no Github
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ThiagoDav/PersonalCV/blob/main/LICENSE) 
 
-Um parágrafo da descrição do projeto vai aqui
+# Sobre o projeto
 
-## 🚀 Começando
+O projeto e uma aplicacao Front & Back-end construida durante o 1a semestre do Curso de Desenvolvimento de Software Multiplataforma na Fatec Franca, aula ministrada pelo Professor Marcio Funes.
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+O projeto consiste em criar o primeiro curriculo, mesmo daqueles com pouca bagaguem na area de T.I e comitar essas informacoes na Plataforma Github para a criacao de nosso portifolio.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+## Layout mobile
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-### 📋 Pré-requisitos
+## Layout web
+![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-```
-Dar exemplos
-```
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-### 🔧 Instalação
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+## Front end
+- HTML / CSS / JS / TypeScript
+- ReactJS
+- React Native
+- Apex Charts
+- Expo
+## Implantação em produção
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+# Como executar o projeto
 
-Diga como essa etapa será:
+## Back end
+Pré-requisitos: Java 11
 
-```
-Dar exemplos
-```
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
-E repita:
+# entrar na pasta do projeto back end
+cd backend
 
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
+# executar o projeto
+./mvnw spring-boot:run
 ```
 
-## 📦 Implantação
+## Front end web
+Pré-requisitos: npm / yarn
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
-## 🛠️ Construído com
+# entrar na pasta do projeto front end web
+cd front-web
 
-Mencione as ferramentas que você usou para criar seu projeto
+# instalar dependências
+yarn install
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+# executar o projeto
+yarn start
+```
 
-## 🖇️ Colaborando
+# Autor
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+Wellington Mazoni de Andrade
 
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+https://www.linkedin.com/in/wmazoni
