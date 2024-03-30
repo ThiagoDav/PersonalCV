@@ -9,6 +9,8 @@ O projeto consiste em criar o primeiro curriculo, mesmo daqueles com pouca bagag
 
 A pagina web criada se divide em alguns topicos, a landing page, onde temos o menu superior de navegacao e tambem redirecionadores para as plataformas Github e Linkedin no rodape, as abas Experiencia e Contato.
 
+https://cheery-lokum-13a6b7.netlify.app/
+
 ## Layout Landing Page
 ![navegacao](https://github.com/ThiagoDav/PersonalCV/assets/163654698/61c3da1e-9358-4eba-a8b9-d17acb9df742)
 ![redirecionamento](https://github.com/ThiagoDav/PersonalCV/assets/163654698/7176956b-3aaf-4817-a60b-ce4abbddcd25)
