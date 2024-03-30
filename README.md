@@ -29,7 +29,7 @@ https://cheery-lokum-13a6b7.netlify.app/
 
 ## Implantação em produção
 - Front end web: Netlify
-- 
+
 
 # Autor
 
